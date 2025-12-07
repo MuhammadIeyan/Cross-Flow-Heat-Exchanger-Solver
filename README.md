@@ -6,6 +6,8 @@ This project is a numerical simulation tool designed to analyze the thermal perf
 
 The solver iteratively calculates temperature-dependent fluid properties to determine the **Convection Heat Transfer Coefficients** ($h$), **Overall Heat Transfer Coefficient** ($U$), and the spatial temperature distribution along the pipe length.
 
+![Problem simulation](problem_simulation.png)
+
 ## ⚙️ Methodology & Physics
 The simulation integrates several empirical correlations to ensure physical accuracy:
 
