@@ -22,6 +22,8 @@ The simulation integrates several empirical correlations to ensure physical accu
 ## 📊 Results & Sensitivity Analysis
 The tool allows for sensitivity analysis to observe how flow velocity impacts cooling efficiency.
 
+![Simulation Results](simulation_results.png)
+
 * **Scenario A (Operating Condition):** At high velocity ($5 \text{ m/s}$), the residence time is short, resulting in a minimal temperature drop ($\approx 0.4^\circ\text{C}$), demonstrating high mass throughput but lower thermal change per unit mass.
 * **Scenario B (Low Velocity):** At $0.1 \text{ m/s}$, the fluid exhibits a classic exponential decay curve, validating the physical correctness of the heat transfer model.
 
