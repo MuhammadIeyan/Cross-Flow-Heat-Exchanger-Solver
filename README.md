@@ -1,4 +1,4 @@
-# Cross-Flow Heat Exchanger SOlver
+# Cross-Flow Heat Exchanger Solver
 https://colab.research.google.com/drive/1nWd59-1BZ7ZhdlCuIWg4C1zJVDlHFRdf?usp=sharing
 
 ## Project Overview
